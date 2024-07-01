@@ -10,7 +10,6 @@ White Box Watermark Methodology
 - [Algorithm](#Algorithm)
 - [Notes](#Notes)
 - [License](#license)
-- [Acknowledgements](#acknowledgements)
 - [Contact](#contact)
 
 
