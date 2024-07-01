@@ -1,4 +1,4 @@
-# watermarking-DNN
+# Watermarking-DNN
 
 
 White Box Watermark Methodology
