@@ -57,7 +57,7 @@ To protect the ownership of the model
 
 ### License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](https://github.com/Mamun5011/watermarking-DNN/blob/main/LICENSE).
 
 
 ### Contact
